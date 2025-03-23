@@ -20,4 +20,4 @@ SELECT CustomerName,City
 FROM Customers;
 ```
 
-[!SELECT](./sql_select.png)
+[SELECT](./sql_select.png)
