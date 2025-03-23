@@ -6,8 +6,9 @@ My SQL Classes Practice
 
 Syntax
 </br>
+
 ``
-SELECT column1, column2, ... </br>
+SELECT column1, column2, ... 
 FROM table_name;
 ``
 
