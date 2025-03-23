@@ -1,7 +1,7 @@
 # SQL-CLASS
 My SQL Classes Practice
 
-### SELECT Statement
+### SQL SELECT Statement
 </br>
 
 Syntax
