@@ -4,6 +4,8 @@ My SQL Classes Practice
 ### SELECT Statement
 </br>
 
+Syntax
+</br>
 ``
 SELECT column1, column2, ...
 FROM table_name;
